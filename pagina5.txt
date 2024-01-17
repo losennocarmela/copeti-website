@@ -1,0 +1,30 @@
+<html>
+   <head> 
+     <title>pagina5</title>
+     <style type="text/css">
+      #pagina {position:absolute;width:100%;height:100%;right:0%;left:0%;top:0%;bottom:0%;}
+      #paragrafo {position:absolute;width:50%;height:65%;right:50%;left:0%;top:10%;bottom:25%;background:lightgreen;text-align:justify;color:black;font-size:19px;overflow:auto;}
+      #elenco {position:absolute;width:50%;height:65%;right:0%;top:10%;left:50%;bottom:25%;background:yellow;font-style:arial;color:black;overflow:auto;}
+      #titolo {position:absolute;width:80%;height:10%;right:20%;top:0%;left:0%;bottom:90%;background:black;font-style:arial;text-align:center;color:red;font-size:32px;letter-spacing:1px;overflow:auto;}
+      #paragrafo2 {position:absolute;width:100%;height:25%;right:0%;top:75%;left:0%;bottom:0%;background:orange;text-align:justify;color:black;font-size:16px;overflow:auto;}
+      #paginaprincipale {position:absolute;width:20%;height:10%;right:0%;top:0%;left:80%;bottom:90%;background:pink;font-style:arial;text-align:center;font-size:22px;overflow:auto;}
+     </style>
+   </head>
+   <body>
+    <div id="pagina">
+    <div id="titolo">TERAPIA COGNITIVO-COMPORTAMENTALE MIGLIORATA(CBT-E)</div>
+    <div id="paginaprincipale"><a href="progetto.html">Torna alla pagina principale</a></div>
+    <div id="paragrafo"><p>La Terapia Cognitivo Comportamentale Migliorata (CBT-E: Enhanced cognitive behaviour therapy) è il trattamento di prima scelta per curare i Disturbi Alimentari. È una psicoterapia la cui validità ha solide basi scientifiche, tanto da essere stata inserita nelle linee guida del National Institute for Clinical Excellence (NICE) per la cura di Anoressia Nervosa, Bulimia Nervosa e Binge Eating (o Disturbo da Alimentazione incontrollata).
+
+Fu sviluppata da Christopher G. Fairburn presso il Centre for Research on Eating Disorders at Oxford nei primi anni 2000 a partire dalla CBT-BN, una terapia efficace volta al trattamento della Bulimia Nervosa. La CBT-E si fonda su un modello transdiagnostico dei Disturbi Alimentari, cioè considera i Disturbi Alimentari un’unica categoria diagnostica. La CBT-E è una forma di psicoterapia cognitivo comportamentale che agisce sui meccanismi di mantenimento del Disturbo Alimentare, in particolare su quelli cognitivi.
+
+Per produrre un cambiamento psicologico, il terapeuta CBT-E aiuta il paziente a modificare il proprio comportamento per poi analizzarne effetti e conseguenze. Per fare ciò, utilizza procedure cognitive e comportamentali integrandole con interventi psicoeducativi.</p></div>
+    <div id="elenco">LE DIVERSE FORME DI CBT-E<ul type="disc">
+        <li>CBT-E FOCALIZZATA VS CBT-E ALLARGATA. La CBT-E focalizzata si concentra sul nucleo psicopatologico del Disturbo Alimentare mentre la CBT-E allargata presenta dei moduli specifici di trattamento che hanno come bersaglio i meccanismi di mantenimento cosiddetti “esterni”: il perfezionismo, la bassa autostima e le difficoltà interpersonali.</li>
+        <li>CBT-E IN REGIME AMBULATORIALE STANDARD VS INTENSIVO. Oltre alla CBT-E ambulatoriale standard esiste una versione intensiva che si differenzia dalla prima perché si rivolge a pazienti sottopeso che non riescono a recuperare peso oppure a pazienti normopeso che presentano gravi abitudini alimentari disfunzionali. Prevede l’assistenza ai pasti, due sedute a settimana con lo psicoterapeuta e due sedute a settimana con il dietista, esami medici periodici e una riunione settimanale con tutta l’equipe.</li>
+        <li>CBT-E IN REGIME DI RICOVERO. La CBT-E in regime di ricovero viene applicata quando si ha una scarsa risposta al trattamento ambulatoriale, quando il trattamento ambulatoriale non è indicato (es: marcato sottopeso, gravi complicanze mediche, rapida perdita di peso) e quando è presente un elevato rischio di suicidio. Prevede un’equipe multidisciplinare, l’assistenza ai pasti, sedute di gruppo oltre che individuali, e il coinvolgimento dei familiari nel caso di pazienti minorenni.</li>
+        <li>CBT-E PER I MINORI DI 18 ANNI. Poiché la maggior parte dei pazienti minorenni vive in casa con i propri genitori, la CBT-E per i pazienti giovani (CBT-EA) prevede il coinvolgimento della famiglia affinché questa possa diventare un’importante risorsa nel percorso di guarigione e non un ostacolo al cambiamento.</li>
+      </ul></div>
+    <div id="paragrafo2"><p>Il percorso di psicoterapia CBT-E è limitato nel tempo: dura all’incirca 20 sedute per i pazienti normopeso e all’incirca 40 sedute per i pazienti sottopeso. È strutturato in quattro fasi distinte: La Fase Uno è dedicata a ingaggiare il paziente nel percorso terapeutico lavorando, se necessario, sulla sua motivazione al trattamento. Inoltre il terapeuta assieme al paziente identifica i processi di mantenimento del disturbo (formulazione condivisa personalizzata), fornisce informazioni sul disturbo (psicoeducazione) e illustra alcune procedure della CBT-E che verranno utilizzate in seduta. La Fase Due è una fase di revisione. Terapeuta e paziente analizzano i progressi fatti e gli eventuali ostacoli al cambiamento, ed eventualmente modificano la formulazione condivisa costruita durante la Fase Uno. Durante la Fase Tre si affrontano i meccanismi di mantenimento principali del Disturbo Alimentare,e la Fase Quattro ha il compito di assicurarsi che i cambiamenti ottenuti si mantengano nel tempo e di analizzare eventuali fattori di rischio di ricaduta.</p></div>
+   </body>
+</html>

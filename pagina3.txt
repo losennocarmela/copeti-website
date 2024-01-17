@@ -1,0 +1,18 @@
+<html>
+  <head>
+   <title>pagina3</title>
+  </head>
+   <body>
+    <table style="width:100%;height:100%;border-style:double;color:brown;background-color:yellow">
+     <tr>
+      <td style="width:100%;height:20%;border-style:ridge;border-color:brown;background-color:lightgreen;font-style:arial;text-align:center;color:red;font-size:42px;letter-spacing:3px" colspan="2">I SINTOMI DEI DISTURBI ALIMENTARI</td>
+    </tr>
+    <tr> 
+     <td style="width:51%;height:80%;border-style:double;border-color:brown;background-color:yellow"><img src="sintomi disturbi alimentari.jpg"/></td>
+     <td style="width:49%;height:80%;border-style:dotted;border-color:brown;background-color:yellow;text-align:left;font-style:arial;color:black;font-size:22px"><p><h4>I DCA hanno sintomi fisici e psicologici. I segnali psicologici dei disturbi alimentari possono essere: tendenza all’isolamento e solitudine, l’emozione della rabbia, rimuginio, sbalzi d’umore, comportamenti ossessivi e ritualizzati (come tagliare a piccoli pezzi il cibo  o mangiare di nascosto), ansia, depressione, paura di perdere il controllo. 
+
+Tra i criteri diagnostici dei disturbi alimentari del DSM-5, inoltre, vengono sottolineati sintomi psicologici in comune con quelli delle dipendenze patologiche, per cui in alcuni casi si parla di dipendenza da cibo. Tra i sintomi fisici dei disturbi alimentari possiamo trovare: alterazione del metabolismo, disturbi del sonno, perdita o aumento di peso, indebolimento muscolare.<h4><a href="progetto.html">Torna alla pagina principale</a><h4></p></td>
+    </tr>
+   </table>
+  </body>
+ </html

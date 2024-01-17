@@ -1,0 +1,20 @@
+<html>
+  <head>
+   <title>pagina6</title>
+  </head>
+   <body>
+    <table style="width:100%;height:100%;border-style:double;color:brown;background-color:yellow">
+     <tr>
+      <td style="width:100%;height:20%;border-style:ridge;border-color:brown;background-color:lightgreen;font-style:arial;text-align:center;color:red;font-size:42px;letter-spacing:3px" colspan="2">I DISTURBI ALIMENTARI E IL COVID</td>
+    </tr>
+    <tr> 
+     <td style="width:51%;height:80%;border-style:double;border-color:brown;background-color:yellow"><img src="disturbiecovid.jpg"/></td>
+     <td style="width:49%;height:80%;border-style:dotted;border-color:brown;background-color:yellow;text-align:left;font-style:arial;color:black;font-size:20px"><p><h4>L’effetto della pandemia sulla salute mentale, in particolare sui disturbi alimentari, si è fatto sentire con forza: l’esordio di anoressia è più precoce, sono aumentate le richieste di aiuto e si sono acuiti i disturbi alimentari preesistenti.“In questo periodo, abbiamo riscontrato che le persone che avevano già sofferto in passato di anoressia, bulimia o disturbo da Binge Eating (disturbo da alimentazione incontrollata) hanno avuto delle ricadute, per lo più legate allo stress della pandemia e alle relative conseguenze nella vita di tutti i giorni” spiega il dott. Erzegovesi.
+
+Allo stesso tempo, per le stesse ragioni, anche chi non soffriva di questo genere di disturbi ha iniziato a svilupparli, soprattutto tra gli adolescenti. Infatti, dagli ultimi dati a disposizione, si evince che sono ben il 30% in più i ragazzi che hanno sviluppato questo tipo di patologie durante l’ultimo anno.
+
+“La didattica a distanza, la lontananza dagli amici, il vivere prevalentemente a casa, nella propria cameretta, ormai diventato lo spazio vitale dentro al quale costruire la propria quotidianità, hanno contribuito a creare sofferenza e disagio che, molto spesso, si sono tradotti in disturbi alimentari, soprattutto in anoressia nervosa” afferma la prof.ssa Ogliari. <h4><a href="progetto.html">Torna alla pagina principale</a><h4></p></td>
+    </tr>
+   </table>
+  </body>
+ </html
